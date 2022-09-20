@@ -1,10 +1,13 @@
+//people class
 class People {
   String Name;
   int age;
-  People({required this.Name,required this.age});
+  People({required this.Name, required this.age});
 }
-class Horse{
+
+// horse class
+class Horse {
   String Name;
   int age;
-  Horse({required this.Name,required this.age});
+  Horse({required this.Name, required this.age});
 }
