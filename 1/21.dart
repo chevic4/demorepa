@@ -1,1 +1,3 @@
-tr
+ void main(List<String> args) {
+  
+}
