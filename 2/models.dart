@@ -6,5 +6,5 @@ class People {
 class Horse{
   String Name;
   int age;
-  People({required this.Name,required this.age});
+  Horse({required this.Name,required this.age});
 }
